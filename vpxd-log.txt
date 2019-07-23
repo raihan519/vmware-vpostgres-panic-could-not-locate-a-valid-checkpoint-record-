@@ -1,0 +1,4 @@
+# cat /var/log/vmware/vpxd/vpxd.log
+
+info vpxd[7FF9A8AD97A0] [Originator@6876 sub=vpxdVdb] [VpxdVdb::SetDBType] Logging in to DSN: VMware VirtualCenter with username vc
+error vpxd[7FF9A8AD97A0] [Originator@6876 sub=vpxdVdb] [VpxdVdb::SetDBType] Failed to connect to database: ODBC error: (08001) - [unixODBC]Could not connect to the server; --> Connection refused [127.0.0.1:5432].  Retry attempt: 1 ...
