@@ -6,4 +6,4 @@ Based on my experience, this error happen after my vCenter harddisk disconnect s
 
 **Questions** : So what is exactly cause this error?
 
-**Error** : The problem i encountered (HDD disconnect suddenly) is one of the reason that causing this error. 
+**Answer** : The problem i encountered (HDD disconnect suddenly) is one of the reason that causing this error. 
