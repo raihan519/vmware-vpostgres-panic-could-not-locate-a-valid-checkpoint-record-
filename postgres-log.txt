@@ -1,0 +1,5 @@
+# cat /storage/db/vpostgres/pg_log/postgresql.log
+
+2016-09-10 19:02:14.920 UTC 57d458b4.21d8 0   PANIC:  could not locate a valid checkpoint record
+2016-09-10 19:02:14.920 UTC 57d458b1.20bf 0   LOG:  startup process (PID 8664) was terminated by signal 6: Aborted
+2016-09-10 19:02:14.920 UTC 57d458b1.20bf 0   LOG:  aborting startup due to startup process failure
